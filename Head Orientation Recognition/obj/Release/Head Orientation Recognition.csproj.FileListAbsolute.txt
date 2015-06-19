@@ -1,0 +1,9 @@
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\2nd Semester\head-orientation-recognition\Head Orientation Recognition\bin\Release\Head Orientation Recognition.exe.config
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\2nd Semester\head-orientation-recognition\Head Orientation Recognition\bin\Release\Head Orientation Recognition.exe
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\2nd Semester\head-orientation-recognition\Head Orientation Recognition\bin\Release\Head Orientation Recognition.pdb
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\2nd Semester\head-orientation-recognition\Head Orientation Recognition\obj\Release\Head Orientation Recognition.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\2nd Semester\head-orientation-recognition\Head Orientation Recognition\obj\Release\Head_Orientation_Recognition.MainForm.resources
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\2nd Semester\head-orientation-recognition\Head Orientation Recognition\obj\Release\Head_Orientation_Recognition.Properties.Resources.resources
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\2nd Semester\head-orientation-recognition\Head Orientation Recognition\obj\Release\Head Orientation Recognition.csproj.GenerateResource.Cache
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\2nd Semester\head-orientation-recognition\Head Orientation Recognition\obj\Release\Head Orientation Recognition.exe
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\2nd Semester\head-orientation-recognition\Head Orientation Recognition\obj\Release\Head Orientation Recognition.pdb

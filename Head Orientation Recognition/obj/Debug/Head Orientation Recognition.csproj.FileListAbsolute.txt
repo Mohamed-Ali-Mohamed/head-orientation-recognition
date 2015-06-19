@@ -1,0 +1,9 @@
+c:\users\mohamed\documents\visual studio 2013\Projects\Head Orientation Recognition\Head Orientation Recognition\bin\Debug\Head Orientation Recognition.exe.config
+c:\users\mohamed\documents\visual studio 2013\Projects\Head Orientation Recognition\Head Orientation Recognition\bin\Debug\Head Orientation Recognition.exe
+c:\users\mohamed\documents\visual studio 2013\Projects\Head Orientation Recognition\Head Orientation Recognition\bin\Debug\Head Orientation Recognition.pdb
+c:\users\mohamed\documents\visual studio 2013\Projects\Head Orientation Recognition\Head Orientation Recognition\obj\Debug\Head Orientation Recognition.csprojResolveAssemblyReference.cache
+c:\users\mohamed\documents\visual studio 2013\Projects\Head Orientation Recognition\Head Orientation Recognition\obj\Debug\Head_Orientation_Recognition.MainForm.resources
+c:\users\mohamed\documents\visual studio 2013\Projects\Head Orientation Recognition\Head Orientation Recognition\obj\Debug\Head_Orientation_Recognition.Properties.Resources.resources
+c:\users\mohamed\documents\visual studio 2013\Projects\Head Orientation Recognition\Head Orientation Recognition\obj\Debug\Head Orientation Recognition.csproj.GenerateResource.Cache
+c:\users\mohamed\documents\visual studio 2013\Projects\Head Orientation Recognition\Head Orientation Recognition\obj\Debug\Head Orientation Recognition.exe
+c:\users\mohamed\documents\visual studio 2013\Projects\Head Orientation Recognition\Head Orientation Recognition\obj\Debug\Head Orientation Recognition.pdb
